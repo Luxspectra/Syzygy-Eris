@@ -18,8 +18,8 @@
 					/obj/item/ammo_magazine/cspistol/rubber = 5,
 					/obj/item/ammo_magazine/ammobox/clrifle_small/rubber = 5,
 					/obj/item/ammo_casing/shotgun/beanbag/prespawned = 20,
-					/obj/item/weapon/storage/box/shotgunammo/beanbags = 5
-					/obj/item/weapon/cell/small/high = 10,
+					/obj/item/weapon/storage/box/shotgunammo/beanbags = 5,
+					/obj/item/weapon/cell/small/high = 10
 					)
 	prices = list(
 					/obj/item/ammo_magazine/slpistol/rubber = 90,
