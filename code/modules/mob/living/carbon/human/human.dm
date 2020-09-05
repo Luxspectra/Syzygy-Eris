@@ -1310,7 +1310,7 @@ var/list/rank_prefix = list(\
 			if(BP_HEAD)
 				if(head && head.item_flags & THICKMATERIAL)
 					. = 0
-			else
+			if(BP_CHEST)
 				if(wear_suit && wear_suit.item_flags & THICKMATERIAL)
 					. = 0
 	if(!. && error_msg && user)
